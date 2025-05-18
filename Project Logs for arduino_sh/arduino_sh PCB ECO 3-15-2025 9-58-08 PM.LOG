@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=SDA Pin=R1-1
+Removed Pin From Net: NetName=VDD Pin=R1-2
+Removed Pin From Net: NetName=SCL Pin=R2-1
+Removed Pin From Net: NetName=VDD Pin=R2-2
+Change Component Footprint: Designator=R1 Old Footprint=FP-MCS0402-IPC_C New Footprint=RESC2013X70X40ML20T20
+Change Component Footprint: Designator=R2 Old Footprint=FP-MCS0402-IPC_C New Footprint=RESC2013X70X40ML20T20
+Change Managed Component Library Link : Designator=R1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=95795BD8-2166-4D09-B859-6BCC51E17570 New ItemGUID=F0424D7C-3667-4863-91AF-9F0C306C3900 Old RevisionGUID=CFECDBBE-783E-44D3-BD0F-3C848AB26ABE New RevisionGUID=4D2F5268-31F2-4C12-9CA9-4345715BF57E
+Change Managed Component Library Link : Designator=R2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=95795BD8-2166-4D09-B859-6BCC51E17570 New ItemGUID=F0424D7C-3667-4863-91AF-9F0C306C3900 Old RevisionGUID=CFECDBBE-783E-44D3-BD0F-3C848AB26ABE New RevisionGUID=4D2F5268-31F2-4C12-9CA9-4345715BF57E
+Change component parameters: Designator = "R1" ("R1"); Footprint = "FP-MCS0402-IPC_C"; UniqueID = "\KCZEQDVF" ("\KCZEQDVF")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-6ENF1002V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "FP-MCS0402-IPC_C"; UniqueID = "\IVOLIRAG" ("\IVOLIRAG")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-6ENF1002V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD Pin=R1-1
+Added Pin To Net: NetName=SDA Pin=R1-2
+Added Pin To Net: NetName=VDD Pin=R2-1
+Added Pin To Net: NetName=SCL Pin=R2-2
+Added Room: Name=arduino_sh

@@ -1,0 +1,10 @@
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Added Pin To Net: NetName=gnd Pin=SW?-1
+Added Pin To Net: NetName=RESET Pin=SW?-2
+Add Class Member: Failed to add class member : Component D1 Diode
+Add Class Member: Failed to add class member : Component D2 Diode
+Added Member To Class: ClassName=arduino_sh Member=Component U? 2717
+Added Room: Name=arduino_sh

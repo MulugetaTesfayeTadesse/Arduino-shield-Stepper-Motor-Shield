@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: M:\thesis\pcb\arduino_sh\arduino_sh.PcbDoc
+RuleKind=Width|RuleName=GND|Scope=Board|Minimum=31.50
+RuleKind=Width|RuleName=VCC|Scope=Board|Minimum=31.50
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=15.75
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

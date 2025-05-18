@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=U? NewDesignator=TCA9548A
+Added Member To Class: ClassName=arduino_sh Member=Component U? DRV8825_STEPPER_MOTOR_DRIVER_CARRIER
+Added Room: Name=arduino_sh

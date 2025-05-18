@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=arduino_sh Member=P12
+Removed Member From Class: ClassName=arduino_sh Member=P13
+Removed Member From Class: ClassName=arduino_sh Member=P14
+Removed Member From Class: ClassName=arduino_sh Member=P15
+Change Component Designator: OldDesignator=P17 NewDesignator=mux_isc
+Added Member To Class: ClassName=arduino_sh Member=Component U? DRV8825_STEPPER_MOTOR_DRIVER_CARRIER
+Added Room: Name=arduino_sh

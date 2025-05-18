@@ -1,0 +1,83 @@
+Added Component: Designator=C8(FP-FTD-MFG)
+Added Component: Designator=E1(HDR1X8)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=E2(HDR1X8)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=E44(HDR2X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R55(RESC2013X70X40ML20T20)
+Added Component: Designator=S_E(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Added Pin To Net: NetName=NetLabel144 Pin=E1-1
+Added Pin To Net: NetName=E-STEP Pin=E1-7
+Added Pin To Net: NetName=E-DIR Pin=E1-8
+Added Pin To Net: NetName=VCC Pin=E2-1
+Added Pin To Net: NetName=NetLabel144 Pin=E2-2
+Added Pin To Net: NetName=NetLabel144 Pin=E2-8
+Added Pin To Net: NetName=VDD Pin=E44-2
+Added Pin To Net: NetName=VDD Pin=E44-4
+Added Pin To Net: NetName=VDD Pin=E44-6
+Add Pin To Net: Unknown Pin: Pin R55-1
+Add Pin To Net: Unknown Pin: Pin R55-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Change Net Name : Old Net Name=NetLabel144 New Net Name=gnd
+Added Pin To Net: NetName=5v Pin=E2-7
+Added Net: Name=5v
+Added Pin To Net: NetName=A1_e Pin=E2-5
+Added Pin To Net: NetName=A1_e Pin=S_E-3
+Added Net: Name=A1_e
+Added Pin To Net: NetName=A2_e Pin=E2-6
+Added Pin To Net: NetName=A2_e Pin=S_E-4
+Added Net: Name=A2_e
+Added Pin To Net: NetName=B1_e Pin=E2-4
+Added Pin To Net: NetName=B1_e Pin=S_E-2
+Added Net: Name=B1_e
+Added Pin To Net: NetName=B2_e Pin=E2-3
+Added Pin To Net: NetName=B2_e Pin=S_E-1
+Added Net: Name=B2_e
+Added Pin To Net: NetName=M0_e Pin=E1-2
+Added Pin To Net: NetName=M0_e Pin=E44-1
+Added Net: Name=M0_e
+Added Pin To Net: NetName=M1_e Pin=E1-3
+Added Pin To Net: NetName=M1_e Pin=E44-3
+Added Net: Name=M1_e
+Added Pin To Net: NetName=M2_e Pin=E1-4
+Added Pin To Net: NetName=M2_e Pin=E44-5
+Added Net: Name=M2_e
+Added Pin To Net: NetName=NetE1_5 Pin=E1-5
+Added Pin To Net: NetName=NetE1_5 Pin=E1-6
+Added Net: Name=NetE1_5
+Added Pin To Net: NetName=NetLabel58 Pin=P15-1
+Added Net: Name=NetLabel58
+Added Pin To Net: NetName=NetLabel59 Pin=P15-2
+Added Net: Name=NetLabel59
+Added Pin To Net: NetName=NetLabel60 Pin=P15-3
+Added Net: Name=NetLabel60
+Add Class Member: Failed to add class member : Component C8 EEEFT1V101AP
+Add Class Member: Failed to add class member : Component D1 Diode
+Add Class Member: Failed to add class member : Component D2 Diode
+Added Member To Class: ClassName=arduino_sh Member=Component E1 Header 8
+Added Member To Class: ClassName=arduino_sh Member=Component E2 Header 8
+Added Member To Class: ClassName=arduino_sh Member=Component E44 Header 3X2
+Added Member To Class: ClassName=arduino_sh Member=Component P29 Header 4
+Added Member To Class: ClassName=arduino_sh Member=Component R5 ERJ-6ENF1002V
+Add Class Member: Failed to add class member : Component R55 ERJ-6ENF1002V
+Add Class Member: Failed to add class member : Component S1 Push Button Normally Opened
+Added Member To Class: ClassName=arduino_sh Member=Component S_E Header 4
+Added Member To Class: ClassName=arduino_sh Member=Component U? 2717
+Added Room: Name=arduino_sh

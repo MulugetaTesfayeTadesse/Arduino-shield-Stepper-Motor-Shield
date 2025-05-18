@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=gnd Pin=DS?-2
+Removed Pin From Net: NetName=VIN Pin=R?-1
+Removed Member From Class: ClassName=arduino_sh Member=DS?
+Added Room: Name=arduino_sh

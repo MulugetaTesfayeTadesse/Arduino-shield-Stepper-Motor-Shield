@@ -1,0 +1,87 @@
+Added Component: Designator=P8_2(HDR1X8)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P9_2(HDR1X8)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P10_2(HDR1X8)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P11_2(HDR1X6)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P20_2(HDR1X8)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P21_2(HDR1X8)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Added Pin To Net: NetName=X-STEP Pin=P8_2-1
+Added Pin To Net: NetName=X-DIR Pin=P8_2-2
+Added Pin To Net: NetName=Y-EN Pin=P8_2-3
+Added Pin To Net: NetName=D2 Pin=P8_2-4
+Added Pin To Net: NetName=D1 Pin=P8_2-5
+Added Pin To Net: NetName=A5 Pin=P8_2-6
+Added Pin To Net: NetName=Y-STEP Pin=P8_2-7
+Added Pin To Net: NetName=Y-DIR Pin=P8_2-8
+Added Pin To Net: NetName=Y-MIN Pin=P9_2-1
+Added Pin To Net: NetName=Y-MAX Pin=P9_2-2
+Added Pin To Net: NetName=D16 Pin=P9_2-3
+Added Pin To Net: NetName=D17 Pin=P9_2-4
+Added Pin To Net: NetName=Z-MIN Pin=P9_2-5
+Added Pin To Net: NetName=Z-MAX Pin=P9_2-6
+Added Pin To Net: NetName=SDA Pin=P9_2-7
+Added Pin To Net: NetName=SCL Pin=P9_2-8
+Added Pin To Net: NetName=NetLabel52 Pin=P10_2-1
+Added Pin To Net: NetName=D6 Pin=P10_2-2
+Added Pin To Net: NetName=D5 Pin=P10_2-3
+Added Pin To Net: NetName=D4 Pin=P10_2-4
+Added Pin To Net: NetName=X-MIN Pin=P10_2-5
+Added Pin To Net: NetName=X-MAX Pin=P10_2-6
+Added Pin To Net: NetName=A3 Pin=P10_2-7
+Added Pin To Net: NetName=A4 Pin=P10_2-8
+Added Pin To Net: NetName=RESET Pin=P11_2-1
+Added Pin To Net: NetName=NetLabel69 Pin=P11_2-2
+Added Pin To Net: NetName=VDD Pin=P11_2-3
+Added Pin To Net: NetName=gnd Pin=P11_2-4
+Added Pin To Net: NetName=gnd Pin=P11_2-5
+Added Pin To Net: NetName=VIN Pin=P11_2-6
+Added Pin To Net: NetName=NetLabel172 Pin=P20_2-1
+Added Pin To Net: NetName=NetLabel173 Pin=P20_2-2
+Added Pin To Net: NetName=gnd Pin=P20_2-3
+Added Pin To Net: NetName=PS-ON Pin=P20_2-4
+Added Pin To Net: NetName=D11 Pin=P20_2-5
+Added Pin To Net: NetName=D10 Pin=P20_2-6
+Added Pin To Net: NetName=D9 Pin=P20_2-7
+Added Pin To Net: NetName=D8 Pin=P20_2-8
+Added Pin To Net: NetName=Z-EN Pin=P21_2-1
+Added Pin To Net: NetName=A9 Pin=P21_2-2
+Added Pin To Net: NetName=A10 Pin=P21_2-3
+Added Pin To Net: NetName=A11 Pin=P21_2-4
+Added Pin To Net: NetName=A12 Pin=P21_2-5
+Added Pin To Net: NetName=NetLabel185 Pin=P21_2-6
+Added Pin To Net: NetName=NetLabel186 Pin=P21_2-7
+Added Pin To Net: NetName=NetLabel187 Pin=P21_2-8
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Class Member: Failed to add class member : Component D1 Diode
+Add Class Member: Failed to add class member : Component D2 Diode
+Added Member To Class: ClassName=arduino_sh Member=Component P8_2 Header 8
+Added Member To Class: ClassName=arduino_sh Member=Component P9_2 Header 8
+Added Member To Class: ClassName=arduino_sh Member=Component P10_2 Header 8
+Added Member To Class: ClassName=arduino_sh Member=Component P11_2 Header 6
+Added Member To Class: ClassName=arduino_sh Member=Component P20_2 Header 8
+Added Member To Class: ClassName=arduino_sh Member=Component P21_2 Header 8
+Add Class Member: Failed to add class member : Component S1 Push Button Normally Opened
+Added Member To Class: ClassName=arduino_sh Member=Component U? 2717
+Added Room: Name=arduino_sh
